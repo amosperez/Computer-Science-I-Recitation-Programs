@@ -14,15 +14,15 @@ representing the prime sum to be computed for the case.
 ## Output
 Write out a single integer on a line by itself for each test case, indicating P(n), for the
 corresponding input value n.
-Sample Input
-3
-1
-6
-8
-## Sample Output
-2
-41
-77
+## Sample Input<br>
+3<br>
+1<br>
+6<br>
+8<br>
+## Sample Output<br>
+2<br>
+41<br>
+77<br>
 ## Assignment Details
 Even though this assignment can be coded with statically allocated arrays, please write your
 solution using dynamically allocated arrays. (Your programs should have either malloc/calloc
